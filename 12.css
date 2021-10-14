@@ -1,0 +1,196 @@
+*
+{
+	margin:0;
+	padding:0;
+}
+.center
+{
+   background:#1a4380;
+   height:160px;
+}
+.img1
+{
+	height:60%;
+} 
+.img1 img
+{
+    position: relative;
+	background-color:#1a4380;
+	width:70%;
+	left:200px;
+    
+}
+.mySlides 
+{
+	display:none;
+	position:relative;
+}
+.dropbtn {
+    background-color:#1a4380;
+	position:relative;
+    color:white;
+	padding:8px;;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    margin-top:12px;
+	margin-left:10px;
+}
+
+.dropdown 
+{
+	position:relative;    
+    display: inline-block;
+	background-color:1a4380;
+}
+
+.dropdown-content
+{
+    display: none;
+    position: absolute;
+    background-color: #1a4380;	
+    min-width: 160px;
+    z-index: 1;
+
+}
+
+.dropdown-content a {
+    color:white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+		
+}
+
+.dropdown-content a:hover
+{
+	background-color: rgba(255, 255, 255, 0.2);	
+}
+
+.dropdown:hover .dropdown-content
+{
+    display: block;
+}
+
+.dropdown:hover .dropbtn
+{
+    background-color: #1a4380;
+}
+.hello
+{
+    height:50px;
+	background-color: #0689b3;
+	margin-bottom:20px;
+	width:100%;
+}
+.button1
+{
+	background-color:#0689b3;
+	color:white;
+	padding:8px;
+    font-size: 16px;
+    border:none;
+    margin-top:10px;
+	margin-left:110px;
+}
+.vertical1
+{   
+    margin-left:15px;
+    position:relative;	
+	height:90%;
+	background-color:white;
+	width:30%;
+	display:inline-block;
+	border-style:solid;
+}
+
+.vertical2
+{   
+    margin-left:40px;
+    position:relative;	
+	height:90%;
+	background-color:white;
+	width:30%;
+	display:inline-block;
+	border-style:solid;
+}
+.vertical3
+{   
+    margin-left:40px;
+	height:90%;
+	background-color:white;
+	width:30%;
+	display:inline-block;
+	position:relative;
+	border-style:solid;
+}
+.ab 
+{
+	width:99%;
+	height:30px;
+	background-color:#1a4380;
+	border-style:solid;
+}
+.ab a
+{
+	color:white;
+	font-size:16px;
+	margin-left:28%;
+	text-decoration:none;
+}
+.horizontal
+{
+	margin:15px 0px 10px 0px;
+	height:60%;
+	background-color:#1a4380;
+	width:100%;
+	display:inline-block;
+	position:relative;
+}
+
+table
+{
+    width:100%;
+	margin-top:3%;
+	
+}
+table, th, td
+{
+	
+    margin-left:8%;
+    border-collapse: collapse;
+}
+th, td 
+{   
+    
+    padding: 15px;
+    text-align: left;
+}
+th
+{
+	text-decoration:underline;
+	color:#FF6347;
+	font-size:30px;
+}
+td
+{
+	color:white;
+}
+.horizontal1
+{
+	margin:10px 0px 40px 0px;
+	height:10%;
+	background-color:#1a4380;
+	width:100%;
+	display:inline-block;
+	position:relative;
+}
+.horizontal1 h1
+{
+	margin:10px;
+	margin-left:10%;
+	padding:8px;
+	font-size:16px;
+	height:10px;
+	color:white;
+}
